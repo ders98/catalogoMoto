@@ -1,0 +1,18 @@
+/* body */
+.bgBody{
+    background-image: url(../images/fondobg.jpg);
+}
+
+.imgCarousel{
+    height: 50vh;
+}
+
+.cotainCard{
+    float: left;
+
+}
+
+.card{
+    width: 200px;
+}
+
